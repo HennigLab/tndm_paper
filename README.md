@@ -29,6 +29,6 @@ where "path/to/your/directory" is replaced with the path to the tndm_paper repos
 
 ## Train an TNDM model
 
-For a full list of flags, their descriptions, and their default values, refer to the top of `run_tndm_double.py`. We trained all of our models using the `run_tndm_double.sh` bash script which allows for modifying important values.
+For a full list of flags, their descriptions, and their default values, refer to the top of `run_tndm_double.py`. We trained all of our models using the `run_tndm_double_paper.sh` bash script which allows for modifying important values.
 
 Finally, you can view the results in the ```tndm_eval_matt_data-M1.ipynb``` file.
